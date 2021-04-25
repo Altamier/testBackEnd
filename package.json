@@ -1,0 +1,31 @@
+{
+  "name": "testbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server/server.js",
+  "scripts": { 
+    "dev": "nodemon src/server/server.js",
+    "start": "src/server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altamier/testBackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Altamier/testBackEnd/issues"
+  },
+  "homepage": "https://github.com/Altamier/testBackEnd#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
