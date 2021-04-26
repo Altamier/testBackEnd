@@ -10,13 +10,13 @@
 
 #-src 
 #--controllers
-#    Local que contem as logicas. 
+   Local que contem as logicas. 
 #--models
-#    Model do banco de dados, nesse caso, mongo DB.
+    Model do banco de dados, nesse caso, mongo DB.
 #--routes
-#    Contem as rotas dos serviços criados
+    Contem as rotas dos serviços criados
 #--server
-#    App start e conexão com o banco de dados.
+    App start e conexão com o banco de dados.
 
 
 #Foi usado: 
