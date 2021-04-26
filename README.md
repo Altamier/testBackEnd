@@ -5,8 +5,7 @@
 #A Api foi feita de maneira simples, apenas para que seja possivel realizar a avaliação do codigo e da logica. 
 
 
-
-#Está separada em:
+##Estrutura:
 ```
 -src 
 --controllers
