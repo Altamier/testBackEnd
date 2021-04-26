@@ -7,23 +7,26 @@
 
 
 #Está separada em:
-
-#-src 
-#--controllers
+```
+-src 
+--controllers
    Local que contem as logicas. 
-#--models
+--models
     Model do banco de dados, nesse caso, mongo DB.
-#--routes
+--routes
     Contem as rotas dos serviços criados
-#--server
+--server
     App start e conexão com o banco de dados.
+```
 
-
-#Foi usado: 
-#node com express e mongodb.
-
-#Urls para teste de deploy.
-
+## Links
+```
 https://renato-testebackend.azurewebsites.net/laboratorios
-
 https://renato-testebackend.azurewebsites.net/exames 
+```
+
+##Techs: 
+Node, Express e MongoDb
+
+
+
