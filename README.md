@@ -23,5 +23,7 @@
 #node com express e mongodb.
 
 #Urls para teste de deploy.
-#https://renato-testebackend.azurewebsites.net/laboratorios
-#https://renato-testebackend.azurewebsites.net/exames 
+
+https://renato-testebackend.azurewebsites.net/laboratorios
+
+https://renato-testebackend.azurewebsites.net/exames 
